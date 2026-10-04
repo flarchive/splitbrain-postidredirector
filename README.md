@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of splitbrain/postidredirector.** Not for installation: use [Packagist](https://packagist.org/packages/splitbrain/postidredirector) or the [upstream repository](https://github.com/splitbrain/flarum-postidredirector).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/splitbrain-postidredirector/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/splitbrain-postidredirector/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-05-28 | `^1.0.0` | [Browse](https://github.com/flarchive/splitbrain-postidredirector/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/splitbrain-postidredirector.json](https://github.com/flarchive/archive-index/blob/main/packages/splitbrain-postidredirector.json)
 
